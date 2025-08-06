@@ -1,4 +1,8 @@
 .env
+.env
+credentials.json
+config.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
